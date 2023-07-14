@@ -11,5 +11,12 @@ public class Appu {
 			System.out.println("is not valid");
 
 		}
+	
+	if (name) {
+		System.out.println("is valid");
+		
+	} else {
+		System.out.println("is not valid");
+
 	}
-	}
+}}
